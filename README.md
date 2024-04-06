@@ -3,11 +3,6 @@ Game com Banco de dados
 
 Jogo: Confronto de Esgoto
 
-Trabalho Introdução a Computação.
-Game com Banco de dados
-
-Jogo: Confronto de Esgoto
-
 Descrição do game:
 Em "Confronto de Esgoto", os jogadores são desafiados a proteger o mundo exterior de uma invasão de monstros assustadores que emergem dos esgotos. 
 No papel de um habilidoso robô de combate, os jogadores devem evitar que os temíveis ratos voadores escapem do esgoto e causem estragos na cidade.
